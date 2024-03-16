@@ -1,0 +1,12 @@
+{
+  "name": "simple_express_server",
+  "version": "1.0.0",
+  "main": "y",
+  "repository": "n",
+  "author": "DawSeg <buler43221@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
